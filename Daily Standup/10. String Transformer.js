@@ -1,5 +1,5 @@
 function stringTransformer(str) {
-  let final = "";
+  let finalStr = "";
   str = str.split(' ').reverse().join(' ');
   
   for (let word of str) {
@@ -10,5 +10,5 @@ function stringTransformer(str) {
     if (word === word.toUpperCase()) final += word.toLowerCase(); 
     if (word === word.toLowerCase()) final += word.toUpperCase();
   }
-  return final;
+  return finalStr;
 }
