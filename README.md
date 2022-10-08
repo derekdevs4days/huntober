@@ -1,4 +1,4 @@
-# README #
+# HUNTOBER #
 Hey all! Welcome to the first day of my first week of daily web dev challenges this October 🎃.
 
 These challenges are designed to be a bit of fun mixed with a bit of coding practice. Beginning each Saturday, the daily tasks will build towards discovering a final solution the following Friday. If that sounds like something you want in on, welcome!
