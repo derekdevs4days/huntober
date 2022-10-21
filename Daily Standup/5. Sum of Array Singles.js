@@ -40,7 +40,6 @@ function repeats(arr) {
       sum += num
     }
   }
-  console.log(sum)
   return sum;
 }
 
